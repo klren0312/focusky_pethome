@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <fonts>
+    <font name="STXinwei" className="FskyFont_STXINWEI" url="./files/fonts/font-0-0-20161230183825281.swf" ttfurl="./files/fonts/font-0-0-20161230183825281.ttf"/>
+    <font name="思源黑体" className="FskyFont_syht" url="./files/fonts/font-1-0-20161230183825830.swf" ttfurl="./files/fonts/font-1-0-20161230183825830.ttf"/>
+    <font name="思源黑体" className="FskyFont_syht_Bold" url="./files/fonts/font-1-1-20161230183826400.swf" ttfurl="./files/fonts/font-1-1-20161230183826400.ttf"/>
+    <font name="思源黑体" className="FskyFont_syht_Italic" url="./files/fonts/font-1-2-20161230183826932.swf" ttfurl="./files/fonts/font-1-2-20161230183826932.ttf"/>
+    <font name="思源黑体" className="FskyFont_syht_Bold_Italic" url="./files/fonts/font-1-3-20161230183827482.swf" ttfurl="./files/fonts/font-1-3-20161230183827482.ttf"/>
+    <font name="Droid Sans Fallback" className="FskyFont_droidsansfallback" url="./files/fonts/font-2-0-2016123018382818.swf" ttfurl="./files/fonts/font-2-0-2016123018382818.ttf"/>
+  </fonts>
+</data>
